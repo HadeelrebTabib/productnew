@@ -1,19 +1,11 @@
-[
+{"products":[
   {
     "color": "Brown",
     "size": 38
   },
   {
-    "color": "Brown",
-    "size": 40
-  },
-  {
     "color": "Black",
     "size": 38
-  },
-    {
-    "color": "Black",
-    "size": 39
   },
   {
     "color": "Black",
@@ -30,5 +22,5 @@
   {
     "color": "White",
     "size": 39
-  }
-]
+  }]
+}
